@@ -1,4 +1,4 @@
-global.owner = ['6285643354073'] // Put your number here
+global.owner = ['6281210258584'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -41,16 +41,16 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'Stiker sedang dibuat oleh HAGAN'
 global.packname = 'stickerby'
-global.author = `elyas(bot)
+global.author = `HAGAN BOT
 
 
 
 
-ig: elyas_tzy`
+ig: MR.HAGAN_404CR4ZY
 
-global.wm = 'by elyas'
+global.wm = 'by hagan'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
 global.instagram = 'https://instagram.com/elyas_tzy'
